@@ -1,0 +1,52 @@
+[
+    {
+        "question": "What is the capital of Japan?",
+        "options": ["A. Seoul", "B. Beijing", "C. Tokyo", "D. Bangkok"],
+        "answer": "C"
+    },
+    {
+        "question": "Which data type is used to store text in Python?",
+        "options": ["A. int", "B. str", "C. list", "D. bool"],
+        "answer": "B"
+    },
+    {
+        "question": "What is the output of 5 + 3 * 2 in Python?",
+        "options": ["A. 16", "B. 11", "C. 13", "D. 10"],
+        "answer": "B"
+    },
+    {
+        "question": "Who invented the World Wide Web?",
+        "options": ["A. Bill Gates", "B. Tim Berners-Lee", "C. Steve Jobs", "D. Mark Zuckerberg"],
+        "answer": "B"
+    },
+    {
+        "question": "Which of the following is a Python framework for web development?",
+        "options": ["A. React", "B. Django", "C. Angular", "D. Flask"],
+        "answer": "B"
+    },
+    {
+        "question": "What is 9 multiplied by 7?",
+        "options": ["A. 56", "B. 63", "C. 72", "D. 81"],
+        "answer": "B"
+    },
+    {
+        "question": "Which planet is known as the Red Planet?",
+        "options": ["A. Venus", "B. Saturn", "C. Mars", "D. Jupiter"],
+        "answer": "C"
+    },
+    {
+        "question": "Which company developed the C programming language?",
+        "options": ["A. Microsoft", "B. AT&T Bell Labs", "C. Google", "D. IBM"],
+        "answer": "B"
+    },
+    {
+        "question": "What does RAM stand for?",
+        "options": ["A. Random Access Memory", "B. Readable Address Memory", "C. Rapid Action Module", "D. Real-time Allocation Mode"],
+        "answer": "A"
+    },
+    {
+        "question": "Which symbol is used for single-line comments in Python?",
+        "options": ["A. //", "B. /* */", "C. #", "D. --"],
+        "answer": "C"
+    }
+]
